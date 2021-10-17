@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @MattDablu
 - 👀 I’m interested in Sci-Fi, 3D, TableTop Games.
 - 🌱 I’m currently learning Full-Stack Dev.
-- 💞️ I’m looking to collaborate on developing skills.
-
 
 
 avatar made by Alex Konstad -> https://www.artstation.com/alexkonstad
