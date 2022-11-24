@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MattDablu
-- 👀 I’m interested in Sci-Fi, 3D, TableTop Games.
-- 🌱 I’m currently learning GameDev with Unity and C#.
+- 👀 Interested in Sci-Fi, 3D, TableTop Games.
+- 🌱 Web Dev / PERN Stack
 
 
 avatar made by Alex Konstad -> https://www.artstation.com/alexkonstad
